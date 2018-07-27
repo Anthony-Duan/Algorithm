@@ -1,4 +1,4 @@
-package Selectionsort;
+package ShortingBasic.Selectionsort;
 
 /**
  * @ Description:选择排序 时间复杂度为O(n*n)
